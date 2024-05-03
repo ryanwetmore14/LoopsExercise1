@@ -12,3 +12,4 @@ C:\Users\ryanw\OneDrive\Desktop\repos\LoopsExercise1\LoopsExercise1\LoopsExercis
 C:\Users\ryanw\OneDrive\Desktop\repos\LoopsExercise1\LoopsExercise1\LoopsExercise1\obj\Debug\net8.0\LoopsExercise1.pdb
 C:\Users\ryanw\OneDrive\Desktop\repos\LoopsExercise1\LoopsExercise1\LoopsExercise1\obj\Debug\net8.0\LoopsExercise1.genruntimeconfig.cache
 C:\Users\ryanw\OneDrive\Desktop\repos\LoopsExercise1\LoopsExercise1\LoopsExercise1\obj\Debug\net8.0\ref\LoopsExercise1.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\LoopsExercise1\LoopsExercise1\LoopsExercise1\obj\Debug\net8.0\LoopsExercise1.sourcelink.json
